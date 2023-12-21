@@ -27,10 +27,10 @@
 [Программа для расчета дифференциальных уравнений](Graf.py) созданная для построения графиков по физической модели взлета, написаная на языке **Python**
 
 ### Ссылка на материалы проекта и отчет
-*Ожидается*
+https://drive.google.com/drive/u/0/folders/1anjrKTuLPeJ3WLOl5-LIInwAVmHh2BZr?ths=true
 
 ### Ссылка на видеоотчет на YouTube
-*Ожидается*
+https://www.youtube.com/watch?v=84JX5k83oRY
 
 ### Ссылка на оригинал отчета
 https://docs.google.com/document/d/1StXrOWrvd2IW2eZT2sL5zZXQVQKajBISs88UcpsqmPY/edit#heading=h.fp9jt8ntvjr5
