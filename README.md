@@ -19,7 +19,7 @@
 ![image_2023-12-18_00-58-12](https://github.com/Aralov7/Kerbal-project-R-7-PS-1/assets/154493935/702837d8-e8be-450a-8632-ae3916eb3823)
 
 ![image_2023-12-18_00-58-13 (3)](https://github.com/Aralov7/Kerbal-project-R-7-PS-1/assets/154493935/2dce75fc-df05-4f50-a928-e5b40de74c99)
-g
+
 
 Файл с моделью [ракеты](R-7_PS-1.craft)
 
