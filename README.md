@@ -16,8 +16,10 @@
 
 
 ### Модель ракеты создана в конструкторе Kerbal Space Program
-![image94](https://user-images.githubusercontent.com/58824153/208073240-e17ef575-0006-4146-9463-171c12532860.png)
-![Final](https://user-images.githubusercontent.com/58824153/208072607-a27b0541-a4cb-4a45-b525-418b275684d8.png)
+![image_2023-12-18_00-58-12](https://github.com/Aralov7/Kerbal-project-R-7-PS-1/assets/154493935/702837d8-e8be-450a-8632-ae3916eb3823)
+
+![image_2023-12-18_00-58-13 (3)](https://github.com/Aralov7/Kerbal-project-R-7-PS-1/assets/154493935/2dce75fc-df05-4f50-a928-e5b40de74c99)
+g
 
 Файл с моделью [ракеты](Duna_spaceship.craft)
 
